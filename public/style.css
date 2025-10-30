@@ -1,0 +1,25 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.btn {
+  border-radius: 20px;
+}
+
+h1, h2 {
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.card {
+  background: linear-gradient(135deg, #f0f9ff, #cbebff);
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f8f9fa;
+  transition: 0.3s;
+}
